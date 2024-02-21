@@ -5,8 +5,11 @@ sections:
   - type: hero
     heading: Tijolos Ecológicos
     body: >
-      And a super compelling supporting paragraph that makes the user
-      immediately want to click the button below.
+      A Dura Eco, presente no mercado desde 2011, encerrou suas operações como
+      fábrica em 2016. No entanto, a inovação permanece no cerne de nossa
+      missão. Reformulamos nosso modelo de negócios para oferecer franquias,
+      proporcionando novas oportunidades para empreender no setor da construção
+      biossustentável. 
     button:
       label: Get Started
       url: /
