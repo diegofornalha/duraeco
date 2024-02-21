@@ -15,7 +15,7 @@ sections:
       url: /
       theme: outline
     image:
-      src: /images/04_08_2017_jjbbidij.png
+      src: /images/maquina-tijolo-ecologico-14.webp
       alt: Stackbit Shapes
     theme: imgRight
   - type: stats
