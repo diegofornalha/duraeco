@@ -19,15 +19,4 @@ sections:
       src: /images/maquina-tijolo-ecologico-14.webp
       alt: Stackbit Shapes
     theme: imgRight
-  - type: stats
-    heading: Faça Parte
-    body: Look at these amazing numbers!
-    stats:
-      - label: Conversion rate
-        value: 100%
-      - label: Five-star reviews
-        value: 4M
-      - label: Prefer our product
-        value: 5 of 5
-    theme: dark
 ---
