@@ -30,7 +30,7 @@ sections:
       alt: Stackbit Shapes
     button:
       type: button
-      label: Get Started
+      label: COMPRAR AGORA!
       url: /
       theme: outline
     theme: imgRight
