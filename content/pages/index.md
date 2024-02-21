@@ -26,7 +26,7 @@ sections:
       detalhadamente e encaminhá-lo ao franqueado mais adequado, assegurando uma
       solução personalizada e alinhada com seus requisitos em construção.
     image:
-      src: /images/telhado-removebg-preview.png
+      src: /images/Perspectiva_nao_aprovada_2.png
       alt: casa
     button:
       type: button
