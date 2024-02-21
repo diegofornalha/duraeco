@@ -26,7 +26,7 @@ sections:
       detalhadamente e encaminhá-lo ao franqueado mais adequado, assegurando uma
       solução personalizada e alinhada com seus requisitos em construção.
     image:
-      src: /images/prt 2024-02-21 at 09.48.57.png
+      src: /images/Projeto-modulação-groutes-3D-2-reduz.png
       alt: Stackbit Shapes
     button:
       type: button
