@@ -19,4 +19,20 @@ sections:
       src: /images/maquina-tijolo-ecologico-14.webp
       alt: Stackbit Shapes
     theme: imgRight
+  - type: hero
+    heading: Deseja Tijolos para Sua Obra?
+    body: >
+      Nosso consultor especializado irá analisar suas necessidades
+      detalhadamente e encaminhá-lo ao franqueado mais adequado, assegurando uma
+      solução personalizada e alinhada com seus requisitos em construção.
+    image:
+      src: /images/prt 2024-02-21 at 09.48.57.png
+      alt: Stackbit Shapes
+    button:
+      type: button
+      label: COMPRAR AGORA!
+      url: >-
+        https://wa.me/5521983985713?text=Desejo+saber+mais+sobre+a=compra+de+tijolos+para+minha+obra
+      theme: outline
+    theme: imgRight
 ---
