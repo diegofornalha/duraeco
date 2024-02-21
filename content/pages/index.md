@@ -26,7 +26,7 @@ sections:
       detalhadamente e encaminhá-lo ao franqueado mais adequado, assegurando uma
       solução personalizada e alinhada com seus requisitos em construção.
     image:
-      src: /images/planta-removebg-preview.png
+      src: /images/obra.png
       alt: casa
     button:
       type: button
