@@ -15,7 +15,7 @@ sections:
       url: /
       theme: outline
     image:
-      src: /images/fpo-shapes.png
+      src: /images/04_08_2017_jjbbidij.png
       alt: Stackbit Shapes
     theme: imgRight
   - type: stats
