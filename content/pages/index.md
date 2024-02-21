@@ -20,7 +20,7 @@ sections:
       alt: Stackbit Shapes
     theme: imgRight
   - type: hero
-    heading: Desja Tijolos para Sua Obra?
+    heading: Deseja Tijolos para Sua Obra?
     body: >
       Nosso consultor especializado irá analisar suas necessidades
       detalhadamente e encaminhá-lo ao franqueado mais adequado, assegurando uma
