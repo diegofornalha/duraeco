@@ -17,7 +17,7 @@ sections:
       theme: outline
     image:
       src: /images/maquina-tijolo-ecologico-14.webp
-      alt: Stackbit Shapes
+      alt: tijolos
     theme: imgRight
   - type: hero
     heading: Deseja Tijolos para Sua Obra?
