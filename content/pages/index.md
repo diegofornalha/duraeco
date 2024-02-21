@@ -32,7 +32,7 @@ sections:
       type: button
       label: COMPRAR AGORA!
       url: >-
-        https://wa.me/5521936182339?text=Gostaria+de+saber+mais+sobre+a+Franquia+DuraEco
+        https://wa.me/5521983985713?text=Desejo+saber+mais+sobre+a=compra+de+tijolos+para+minha+obra
       theme: outline
     theme: imgRight
 ---
