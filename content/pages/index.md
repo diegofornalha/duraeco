@@ -22,8 +22,9 @@ sections:
   - type: hero
     heading: Desja Tijolos para Sua Obra?
     body: >
-      And a super compelling supporting paragraph that makes the user
-      immediately want to click the button below.
+      Nosso consultor especializado irá analisar suas necessidades
+      detalhadamente e encaminhá-lo ao franqueado mais adequado, assegurando uma
+      solução personalizada e alinhada com seus requisitos em construção.
     image:
       src: /images/fpo-shapes.png
       alt: Stackbit Shapes
