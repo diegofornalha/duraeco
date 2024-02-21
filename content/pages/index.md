@@ -20,7 +20,7 @@ sections:
       alt: Stackbit Shapes
     theme: imgRight
   - type: hero
-    heading: This is your main value proposition
+    heading: Desja Tijolos para Sua Obra?
     body: >
       And a super compelling supporting paragraph that makes the user
       immediately want to click the button below.
