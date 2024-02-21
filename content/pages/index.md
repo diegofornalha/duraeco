@@ -11,7 +11,7 @@ sections:
       proporcionando novas oportunidades para empreender no setor da construção
       biossustentável. 
     button:
-      label: Get Started
+      label: Entre em Contato
       url: /
       theme: outline
     image:
