@@ -20,7 +20,7 @@ sections:
       alt: Stackbit Shapes
     theme: imgRight
   - type: stats
-    heading: Don't take our word for it
+    heading: Faça Parte
     body: Look at these amazing numbers!
     stats:
       - label: Conversion rate
