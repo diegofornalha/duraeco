@@ -31,7 +31,8 @@ sections:
     button:
       type: button
       label: COMPRAR AGORA!
-      url: /
+      url: >-
+        https://wa.me/5521936182339?text=Gostaria+de+saber+mais+sobre+a+Franquia+DuraEco
       theme: outline
     theme: imgRight
 ---
