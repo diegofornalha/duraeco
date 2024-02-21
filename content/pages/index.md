@@ -27,7 +27,7 @@ sections:
       solução personalizada e alinhada com seus requisitos em construção.
     image:
       src: /images/Perspectiva_nao_aprovada_2.png
-      alt: Stackbit Shapes
+      alt: casa
     button:
       type: button
       label: COMPRAR AGORA!
