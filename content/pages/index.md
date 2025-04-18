@@ -12,8 +12,7 @@ sections:
       biossustentável. 
     button:
       label: Entre em Contato
-      url: >-
-        https://wa.me/5521936182339?text=Gostaria+de+saber+mais+sobre+a+Franquia+DuraEco
+      url: 'https://wa.me/5521936182339'
       theme: outline
     image:
       src: /images/maquina-tijolo-ecologico-14.webp
