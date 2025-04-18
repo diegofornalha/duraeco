@@ -30,7 +30,7 @@ sections:
       alt: casa
     button:
       type: button
-      label: COMPRAR AGORA!
+      label: COMPRAR AGORA MESMO!
       url: >-
         https://wa.me/5521983985713?text=Desejo+saber+mais+sobre+a=compra+de+tijolos+para+minha+obra
       theme: outline
