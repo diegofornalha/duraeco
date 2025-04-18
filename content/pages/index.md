@@ -31,8 +31,7 @@ sections:
     button:
       type: button
       label: COMPRAR AGORA MESMO!
-      url: >-
-        https://wa.me/5521983985713?text=Desejo+saber+mais+sobre+a=compra+de+tijolos+para+minha+obra
+      url: 'https://wa.me/5521936182339'
       theme: outline
     theme: imgRight
 ---
